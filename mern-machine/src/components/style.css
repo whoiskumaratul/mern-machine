@@ -1,0 +1,31 @@
+
+/* HOME Page && PNR CHECK Page (Home.jsx && Pnrcheck.jsx) start */
+
+ 
+.bts {
+    border-radius: 0px;
+    background: #e0e0e0;
+    box-shadow: inset 5px 5px 18px #5c5c5c,
+                inset -5px -5px 18px #ffffff;
+}
+
+/* .bts {
+    border-radius: 26px;
+background: linear-gradient(225deg, #f0f0f0, #cacaca);
+box-shadow:  -5px 5px 10px #777777,
+             5px -5px 10px #ffffff;
+} */
+
+/* HOME Page && PNR CHECK Page (Home.jsx && Pnrcheck.jsx) end */
+
+
+
+
+/* PNR CHECK Page (Pnrcheck.jsx) start */
+
+input::placeholder {
+    font-size: 18px;
+    font-weight: normal;
+} 
+
+/* PNR CHECK Page (Pnrcheck.jsx) end */

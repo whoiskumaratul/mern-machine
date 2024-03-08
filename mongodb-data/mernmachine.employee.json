@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65eaa0468d95968438204ea6"
+  },
+  "name": "hukum",
+  "email": "hcgupta@cstech.in",
+  "mobileno": {
+    "$numberLong": "9540100448"
+  },
+  "designation": "HR",
+  "gender": "male",
+  "course": "mca",
+  "createdate": "13-feb-21"
+},
+{
+  "_id": {
+    "$oid": "65eaa08d8d95968438204ea7"
+  },
+  "name": "khushboo",
+  "email": "khushboo@cstech.in",
+  "mobileno": {
+    "$numberLong": "8789788448"
+  },
+  "designation": "Manager",
+  "gender": "female",
+  "course": "mca",
+  "createdate": "04-feb-21"
+}]

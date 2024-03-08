@@ -1,0 +1,6 @@
+.bts {
+    border-radius: 0px;
+    background: #e0e0e0;
+    box-shadow: inset 5px 5px 18px #5c5c5c,
+                inset -5px -5px 18px #ffffff;
+}

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65eaa0468d95968438204ea6"
+  },
+  "name": "hukum",
+  "email": "hcgupta@cstech.in",
+  "mobileno": {
+    "$numberLong": "7979974228"
+  },
+  "designation": "HR",
+  "gender": "male",
+  "course": "mtech",
+  "createdate": "13-feb-21"
+},
+{
+  "_id": {
+    "$oid": "65eaa08d8d95968438204ea7"
+  },
+  "name": "rita",
+  "email": "rita@cstech.in",
+  "mobileno": {
+    "$numberLong": "8789788448"
+  },
+  "designation": "Manager",
+  "gender": "female",
+  "course": "mca",
+  "createdate": "04-feb-21"
+},
+{
+  "_id": {
+    "$oid": "65eae4249bfe4bcab1e2424e"
+  },
+  "name": "hukum",
+  "email": "hcgupta@cstech.in",
+  "mobileno": {
+    "$numberLong": "8877372173"
+  },
+  "designation": "HR",
+  "gender": "male",
+  "course": "bca",
+  "createdate": "13-feb-21",
+  "photo": ""
+},
+{
+  "_id": {
+    "$oid": "65eb5fc17c84052b6f9cf1f0"
+  },
+  "name": "hathi",
+  "email": "h@gmail.com",
+  "mobileno": {
+    "$numberLong": "7979974228"
+  },
+  "designation": "Sales",
+  "gender": "female",
+  "course": [
+    "BCA",
+    "BSC"
+  ],
+  "__v": 0
+}]

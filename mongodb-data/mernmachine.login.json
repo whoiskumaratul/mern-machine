@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65ea219ecf6a483284927cf0"
+  },
+  "username": "atul",
+  "password": "atul143"
+},
+{
+  "_id": {
+    "$oid": "65ea21bbcf6a483284927cf1"
+  },
+  "username": "khushboo",
+  "password": "khushboo123"
+},
+{
+  "_id": {
+    "$oid": "65ea21cdcf6a483284927cf2"
+  },
+  "username": "miku",
+  "password": "mikujaiswal"
+},
+{
+  "_id": {
+    "$oid": "65ea21dacf6a483284927cf3"
+  },
+  "username": "rita",
+  "password": "ritajaiswal"
+},
+{
+  "_id": {
+    "$oid": "65ea21eacf6a483284927cf4"
+  },
+  "username": "arun",
+  "password": "ritachoudhary"
+}]
